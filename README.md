@@ -1,4 +1,5 @@
 # CleanCodeEntornos
+![Clean_Code-portada-1024x576](https://github.com/Zerealust-Dani/CleanCodeEntornos/assets/153330111/94b27f11-1884-4960-9406-051a23666524)
 
 Aquí está el código de prueba para la Actividad evaluable T4 - Clean Code.
 
